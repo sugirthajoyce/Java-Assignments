@@ -1,7 +1,7 @@
 # Java-Assignments
-Java Backend Developer Assignment
+Java Assignments
 
-This repository contains solutions for backend development assignments using Java and Spring Boot.
+This repository contains solutions for small assignments using Java and Spring Boot.
 
 Assignments
 
